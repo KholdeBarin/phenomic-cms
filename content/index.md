@@ -8,16 +8,12 @@ cta:
   link: "about"
 ---
 
-Hi there. Before having fun with Phenomic, be sure to read the documentation :
-
+This belongs to me.
 * [How to setup a new project with Phenomic](https://phenomic.io/docs/setup/)
 * [Getting Started with Phenomic](https://phenomic.io/docs/getting-started/)
 * [Usage & APIs](https://phenomic.io/docs/usage/)
 * [FAQ](https://phenomic.io/docs/faq/)
 
-Also take a look at
-[existing websites that use Phenomic](https://phenomic.io/showcase/),
-some projects share their source code!
 
 <!-- demo to show you that you can use "assets" folder -->
 <small>
